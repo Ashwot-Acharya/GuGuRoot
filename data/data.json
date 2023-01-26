@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "e0440377-d879-4b59-a067-7a14f222da42",
+      "product_name": "legion 5",
+      "Product_price": "1200",
+      "product_discount": "20"
+    },
+    {
+      "id": "66f76a1f-d2b7-4213-99df-7da22c4f5ae9",
+      "product_name": "thinkbook",
+      "Product_price": "900",
+      "product_discount": "30"
+    },
+    {
+      "id": "00afe0e4-d38b-4d2f-a4d9-b02055ddfaee",
+      "product_name": "thinkpad",
+      "Product_price": "1000",
+      "product_discount": "0"
+    },
+    {
+      "id": "34ca9ccf-ea54-4086-a3a6-48ec846d692c",
+      "product_name": "Thinkpad carbon x1",
+      "Product_price": "987",
+      "product_discount": "5"
+    },
+    {
+      "id": "6733abe2-5da2-4263-a9a2-af3a8cd2b7d6",
+      "product_name": "Acer Nitro 5",
+      "Product_price": "1200",
+      "product_discount": "10"
+    }
+  ]
+}
