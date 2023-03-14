@@ -29,6 +29,26 @@
       "product_name": "Acer Nitro 5",
       "Product_price": "1200",
       "product_discount": "10"
+    },
+    {
+      "id": "cd786edd-016e-411f-af02-d4d05420d96a",
+      "product_name": "macbook 14",
+      "Product_price": "1200",
+      "product_discount": "12"
+    }
+  ],
+  "admin": [
+    {
+      "id": "c496e2ce-9838-417b-bde7-5a24d0258737",
+      "Name": "Ashwot",
+      "email": "ashwot1133@gmail.com",
+      "password": "8Hwy9P9KbtrE7XB"
+    },
+    {
+      "id": "fd975920-46aa-405e-8670-b143cc43765d",
+      "Name": "Cow",
+      "email": "cow@gmail.com",
+      "password": ""
     }
   ]
 }

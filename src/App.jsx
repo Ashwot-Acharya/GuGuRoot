@@ -7,7 +7,8 @@ import ProductDetail from './Components/productdetaik'
 
 import { Route , Routes } from 'react-router-dom'
 import FrontPage from './Components/frontpage'
-import Admin from './Components/admin'
+import AddAdmin from './Components/addadmin'
+import Login from './Components/login'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -17,8 +18,8 @@ function App() {
        <Route path='/' element= {<FrontPage/>} />
        <Route path='/add' element= {<Addprod/>} />
        <Route path='/product/:id' element= {<ProductDetail/>} />
-      <Route path='/admin' element={<Admin/>}/>
-
+      <Route path='/login' element={<Login/>}/>
+      <Route path='/addadmin' element={<AddAdmin/>} />
 
      </Routes>
       
